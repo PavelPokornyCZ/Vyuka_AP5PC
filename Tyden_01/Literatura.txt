@@ -1,0 +1,7 @@
+Základní: Prata, Stephen. Mistrovství v C++. 3., aktualiz. vyd. Brno : Computer Press, 2007. ISBN 978-80-251-1749-1.
+Základní: LIBERTY, Jesse. Naučte se C++ za 21 dní. Brno : Computer Press, 2007. ISBN 978-80-251-1583-1.
+Základní: Kernighan, Brian W. Programovací jazyk C : [ANSI C99]. Vyd. 1. Brno : Computer Press, 2006. ISBN 80-251-0897-X.
+
+Web:
+https://cplusplus.com/
+https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode (C++ Full Course for free)

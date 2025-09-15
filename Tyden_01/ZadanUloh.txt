@@ -1,0 +1,33 @@
+Úloha 1
+Napište program v C jazyku na výpočet faktoriálu zadaaného čísla z klávesnice
+se zápisem výsledku na obrazovku i do souboru.
+
+
+Úloha 2
+Napište program v C jazyku na hádání čísel. Vygeneruje se náhodné číslo
+v rozmezí 0-79, uživatel má maximálně 5 pokusů na uhodnutí.
+V programu použijte příkaz #define
+
+
+Úloha 3
+Napište program v C jazyku na výpočet rozdílu dvou matic, které mohou
+mít rozdílný počet prvků.
+Matice vytvořte pomocí dynamického pole, pro načtení a výpis matic
+budou použity fukce.
+
+
+Úloha 4
+Napište program v C jazyku na výpočet násobení dvou matic
+Matice vytvořte pomocí statického pole, pro načtení a výpis matic
+budou použity fukce.
+
+
+Úloha 5
+Napište program v C jazyku na výpis minima a maxima ze zadaných čísel.
+Algoritmus vložte do cyklu while s automatickým dotazem zda ukončit program.
+
+
+Úloha 6
+Napište program v C jazyku na setřídění čísel vzestupně i sestupně bublinkovou metodou.
+Čísla se ukládají do jednorozměrného pole (statická či dynamická alokace paměti)
+
