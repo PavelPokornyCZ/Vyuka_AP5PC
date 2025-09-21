@@ -1,0 +1,14 @@
+Vytvořte strukturu Zamestnanec, která bude obsahovat následující položky:
+Jméno zaměstnance
+Příjmení zaměstnance
+Rok narození
+Výše platu
+
+Následně vytvořte program, ve kterém zadáte počet zaměstnnanců a následně pro každého z nich vyplňte výše uvedené položky.
+
+Následně vytvořte jednoduché menu, které půjde:
+1. Vypočítat průměrnou mzdu všech zaměstnanců
+2. Vypsat jméno a příjmené nejstaršího a nejmladšího zaměstnance.
+3. Výpis všech zaměstnanců na obrazovku a do textového souboru.
+4. Ukončení programu.
+
