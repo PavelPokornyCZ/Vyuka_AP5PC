@@ -4,11 +4,12 @@ Příjmení zaměstnance
 Rok narození
 Výše platu
 
-Následně vytvořte program, ve kterém zadáte počet zaměstnnanců a následně pro každého z nich vyplňte výše uvedené položky.
+Následně vytvořte program, ve kterém zadáte počet zaměstnanců a následně pro každého z nich vyplňte výše uvedené položky.
 
 Následně vytvořte jednoduché menu, které půjde:
-1. Vypočítat průměrnou mzdu všech zaměstnanců
-2. Vypsat jméno a příjmené nejstaršího a nejmladšího zaměstnance.
-3. Výpis všech zaměstnanců na obrazovku a do textového souboru.
-4. Ukončení programu.
+1. Změnit výše platu vybraného zaměstnance
+2. Vypočítat průměrnou mzdu všech zaměstnanců
+3. Vypsat jméno a příjmení nejstaršího a nejmladšího zaměstnance.
+4. Výpis všech zaměstnanců na obrazovku a do textového souboru.
+5. Ukončení programu.
 
