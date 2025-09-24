@@ -6,7 +6,7 @@ Výše platu
 
 Následně vytvořte program, ve kterém zadáte počet zaměstnanců a následně pro každého z nich vyplňte výše uvedené položky.
 
-Následně vytvořte jednoduché menu, které půjde:
+Následně vytvořte jednoduché menu, ve kterém půjde:
 1. Změnit výše platu vybraného zaměstnance.
 2. Vypočítat průměrnou mzdu všech zaměstnanců.
 3. Vypsat jméno a příjmení nejstaršího a nejmladšího zaměstnance.
