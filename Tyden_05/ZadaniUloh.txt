@@ -1,0 +1,15 @@
+Úloha č. 1
+Vytvořte program na řešení kvadratické rovnice pomocí objektového programování. Vytvořte třídu KvadratickaRovnice, která bude mít tři atributy - koeficienty kvadratické rovnice - A, B a C. Tyto koeficienty vytvořte jako DAYNAMICKÉ proměnné. Přidejte konstruktor a destruktor a všechny potřebné metody. Vytvořte jednu DYNAMICKOU instanci. A následně přidejte jednoduché menu s nastavením koeficientů a výpočtem kvadratické rovnice. Ošetřete všechny stavy řešení.
+
+
+Úloha č. 2
+Upravte program ze 2 výukového týdne (struktura Zaměstnanec se jménem (DYNAMICKÁ PROMĚNNÁ), příjmením, rokem narozením, a výší platu) do objektového programování. Vytvořte pole instancí této třídy. Do hlavního menu přidejte:
+1. Vložení nového zaměstnance (s možností kopie jiné již dříve vytvořené instance - použijte k tomu kopírovací konstruktor)
+2. Výpočet průměrné mzdy všech zaměstnanců.
+3. Vypsání jména a příjmení nejstaršího a nejmladšího zaměstnance.
+4. Vypsání všech zaměstnanců na obrazovku.
+5. Ukončení programu.
+
+
+
+
