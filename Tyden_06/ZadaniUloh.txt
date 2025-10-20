@@ -1,0 +1,6 @@
+Úloha è.1
+Napište program pro vıpoèet obvodu a obsahu (podle Heronova vzorce) obecného trojúhelníku v rovinì. Konstrukce bude následující: Tøída bod, mající atributy x a y (poloha bodu) a tøída trojúhleník, která bude obsahovat (agregovat) instance tøí bodù, které charakterizují trojúhelník. Doplòte potøebné metody.
+
+Úloha è.2
+Vytvoøte program, kterı bude evidovat mnoství ovoce  (napø. jablek a hrušek) ve skladu. Kadı druh ovoce bude mít samostatnou tøídu se soukromımi polokami kolik bylo koupeno a prodáno. Kromì nich bude mít program ještì spøátelenou funkci k obìma tøídám. Tato funkce bude zjišovat (vypíše se na obrazovku), kolik je aktuálnì celkové mnoství ovoce ve skladu (koupeno - prodáno pro kadı druh ovoce).
+ 
