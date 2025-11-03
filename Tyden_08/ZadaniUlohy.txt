@@ -1,0 +1,4 @@
+Úloha è.1:
+Je dána abstraktní tøída grafickı objekt, ze které dìdí tøídy kvádr a válec. Tyto tøídy mají virtuální metody, které poèítají jejich objemy a povrchy.
+Dále je pøidána další tøída pro správu instancí tøíd kvádr a válec (attribut pole ukazatelù na instance tøídy grafickı objekt a metody, které vytváøí instance kvádru èi válce, ruší je, zobrazuje všechny vytvoøené instance, poèítá souèty objemù a povrchù všech vloenıch tìles).
+V hlavní smyèce programu se nachází menu pro správu objektù.
