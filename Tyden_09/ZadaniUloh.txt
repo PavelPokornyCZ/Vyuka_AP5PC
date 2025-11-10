@@ -1,0 +1,6 @@
+Úloha è.1
+1. Napište program, ve kterém vytvoøíte 6 jednoduchých tøíd v dìdické hierarchii podle obrázku Cpp09-1.gif. Do každé tøídy zapište pouze konstruktor a destruktor, které budou vypisovat na obrazovku text typu "Konstruktor tøídy A" apod. Vytvoøte v hlavní smyèce programu instanci tøídy F. Co se vypíše na obrazovku? V jakém poøadí se volají konstruktory? Následnì u tøíd B a C nastavte virtuální dìdìní. Co se vypíše v takovém pøípadì?
+
+
+Úloha è.2
+Napište program pro matematické operace se dvìmi maticemi, které budou naplnìny náhodnými hodnotami v zadaném rozsahu (bude vytvoøena tøída matice a provedou se její dvì instance). Následnì se vytvoøí tøetí instance, a do ní se uloží souèet první a druhé matice. Pak se první instance inkrementuje a druhá dekrementuje. Do ètvrté instance se uloží jejich rozdíl. Použijte pøitom pøetížení operátorù +, -, ++, --. 
