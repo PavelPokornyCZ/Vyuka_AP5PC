@@ -1,0 +1,4 @@
+Úloha è.1
+1. Napište program na evidenci pøedmìtù a známek zadanému studentovi. Bude vytvoøena tøída Student, která bude obsahovat jeho jméno a pøíjmení a dále seznam pøedmìtù (kontejner vector). Na pøedmìty bude vytvoøena tøída, která bude obsahovat název pøedmìtu a známky.
+Program bude umožòovat pøidávat/odebírat pøedmìty a každému pøedmìtu známky (kontejner vector). Zároveò bude poèítat aritmetický prùmìr všech zadaných známek u každého pøedmìtu.
+Spustitelná ukázka se nachází v souboru Cpp11-1.exe
