@@ -1,0 +1,16 @@
+Úloha è.1
+1. Za pomocí AI zkuste v C++ navrhnout a implementovat jednoduchou hru s textovými vstupy a výstupy.
+Doporuèený žánr: Textová adventura s RPG prvky
+
+Možné implementace:
+- prostøedí hry (svìt) - uloženo v xml souboru
+- procházení mezi lokacemi
+- hrdina a NPC nepøátelé (životy, síla)
+- souboje mezi hráèem a NPC (pøi výhøe nepøítel mùže dropnout nìjaký item)
+- Za zabití nepøítele se získají zkušenosti
+- urèité množství zkušeností povede k vyšší úrovni hráèe (bude mít ještì více síly a životù)
+- inventáø
+- pøedmìty které lze nalézt na urèitém místì a brát/pokládat
+- penìžní systém
+- obchodník v nìkterém místì mapy, kterému lze prodávat/od nìj kupovat itemy (napø. zbranì)
+...
