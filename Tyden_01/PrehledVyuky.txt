@@ -1,14 +1,14 @@
-01. týden: Úvod, podmínky k zápočtu, přehled výuky, literatura
-02. týden: Práce se strukturami
+01. týden: Úvod, podmínky k zápočtu, přehled výuky, literatura. Opakování programování v C jazyku.
+02. týden: Práce se strukturami.
 03. týden: Třídy a instance, atributy, metody, přístupová práva
 04. týden: Konstantní metody, implicitní ukazatel this, konstruktory a destruktory
 05. týden: Statické a dynamické instance, kopírovací konstruktor
-06. týden: Spřátelené funkce a třídy
+06. týden: Agregace. Spřátelené funkce a třídy
 07. týden: Jednoduchá dědičnost
 08. týden: Polymorfismus - virtuální metody, abstraktní třídy, čiré metody
 09. týden: Vícenásobná dědičnost, přetěžování operátorů
 10. týden: Datové proudy (vstupní, výstupní, řetězcové, souborové)
 11. týden: Šablony funkcí a objektů, STL a datové kontejnery
-12. týden: Komplexnější program na samostatnou práci (může odpadnout)
-13. týden: Zápočtový program
-14. týden: Klasifikace zápočtového programu a udělování zápočtů
+12. týden: Využití AI pro tvorbu komplexnějšího C++ programu
+13. týden: Zápočtový program (studenti vypracují program dle zadání a odevzdají do Moodle, vyučující opraví a dle výsledků zapíše známku do Stagu).
+14. týden: Diskuse se zájemci z řad studentů ohledně jejich hodnocení (detaily k hodnocení zápočtového programu)

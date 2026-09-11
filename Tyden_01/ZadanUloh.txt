@@ -1,5 +1,5 @@
 Úloha 1
-Napište program v C jazyku na výpočet faktoriálu zadaaného čísla z klávesnice
+Napište program v C jazyku na výpočet faktoriálu zadaného čísla z klávesnice
 se zápisem výsledku na obrazovku i do souboru.
 
 
@@ -13,13 +13,13 @@ V programu použijte příkaz #define
 Napište program v C jazyku na výpočet rozdílu dvou matic, které mohou
 mít rozdílný počet prvků.
 Matice vytvořte pomocí dynamického pole, pro načtení a výpis matic
-budou použity fukce.
+budou použity funkce.
 
 
 Úloha 4
 Napište program v C jazyku na výpočet násobení dvou matic
 Matice vytvořte pomocí statického pole, pro načtení a výpis matic
-budou použity fukce.
+budou použity funkce.
 
 
 Úloha 5
