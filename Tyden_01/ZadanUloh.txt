@@ -11,7 +11,8 @@ V programu použijte příkaz #define
 
 Úloha 3
 Napište program v C jazyku na výpočet rozdílu dvou matic, které mohou
-mít rozdílný počet prvků.
+mít rozdílný počet prvků (v případě rozdílného počtu prvků se chybějící
+prvky do stejných rozměrů doplní nulami).
 Matice vytvořte pomocí dynamického pole, pro načtení a výpis matic
 budou použity funkce.
 
