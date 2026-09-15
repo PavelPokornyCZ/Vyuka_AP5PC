@@ -17,5 +17,5 @@ Pro načtení a výpis matic budou použity funkce.
 
 Úloha 4
 Napište program v C jazyku na setřídění čísel vzestupně i sestupně bublinkovou metodou.
-Čísla se ukládají do jednorozměrného pole (použijte dynamickou alokaci paměti)
+Čísla se ukládají do jednorozměrného pole (použijte dynamickou alokaci paměti).
 
