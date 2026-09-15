@@ -10,25 +10,12 @@ V programu použijte příkaz #define
 
 
 Úloha 3
-Napište program v C jazyku na výpočet rozdílu dvou matic, které mohou
-mít rozdílný počet prvků (v případě rozdílného počtu prvků se chybějící
-prvky do stejných rozměrů doplní nulami).
-Matice vytvořte pomocí dynamického pole, pro načtení a výpis matic
-budou použity funkce.
+Napište program v C jazyku na výpočet násobení dvou matic
+Matice vytvořte pomocí dvourozměrného statického pole. 
+Pro načtení a výpis matic budou použity funkce.
 
 
 Úloha 4
-Napište program v C jazyku na výpočet násobení dvou matic
-Matice vytvořte pomocí statického pole, pro načtení a výpis matic
-budou použity funkce.
-
-
-Úloha 5
-Napište program v C jazyku na výpis minima a maxima ze zadaných čísel.
-Algoritmus vložte do cyklu while s automatickým dotazem zda ukončit program.
-
-
-Úloha 6
 Napište program v C jazyku na setřídění čísel vzestupně i sestupně bublinkovou metodou.
-Čísla se ukládají do jednorozměrného pole (statická či dynamická alokace paměti)
+Čísla se ukládají do jednorozměrného pole (použijte dynamickou alokaci paměti)
 
