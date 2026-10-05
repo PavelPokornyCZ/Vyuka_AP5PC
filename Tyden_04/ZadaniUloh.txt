@@ -1,0 +1,9 @@
+Úloha č. 1
+Vytvořte třídu pro komplexní číslo. Tato třída bude obsahovat dvě proměnné - reálnou a imaginární složku. Následně v hlavní smyčce programu vytvořte čtyři instance. U prvních dvou instancí naplňte z klávesnice reálnou a imaginární složku - použijte pro to konstruktor. Do třetí instance uložte součet a do čtvrté rozdíl prvních dvou komplexních čísel (složek z prvních dvou instancí). Výsledky zobrazte v konzolovém okně.
+
+Úloha č. 2
+Vytvořte třídu Bod. Ta bude obsahovat dvě proměnné - souřadnice x a y. Následně vytvořte jednu instanci (za pomocí konstruktoru). Poté přidejte nabídku pro standardní transformace tohoto bodu - posun, otáčení (kolem počátku souřadnicového systému), zkosení a zrcadlení. Spustitelná ukázka programu je přiložena.
+
+
+
+
