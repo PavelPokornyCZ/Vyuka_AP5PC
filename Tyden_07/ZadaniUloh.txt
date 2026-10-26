@@ -1,0 +1,7 @@
+Úloha è.1
+1. Upravte program na zpracování bodu s transformacemi (2. úloha ze 4 výukového týdne) s využitím dìdiènosti. Bude vytvoøena tøída Poloha mající soukromé atributy souøadnice x a y a dále tøída Bod, která tyto vlastnosti zdìdí a pøidá si jednu svoji, zda je bod viditelný èi nikoliv. Dále bude obsahovat metody na zobrazení/uschování a transformace (posun, rotace, zkosení, zrcadlení).
+
+Úloha è.2
+Upravte pøedchozí program tak, že ze tøídy bod smažte transformace. Pøidejte novou tøídu Kruh, která dìdí ze tøídy Bod (a tím pádem i Poloha). Tato nová tøída bude mít navíc atribut polomìr, který bude možné zmìnit. V hlavní smyèce programu se vytvoøí jedna instance tøídy Bod a jedna instance tøídy kruh. následnì pùjde skrze textovou nabídky oba objekty zobrazovat/schovávat, zmìnit veškeré parametry a u kruhu zvìtšovat/zmenšovat polomìr.
+Spustitelná ukázka je pøiložena.
+ 
