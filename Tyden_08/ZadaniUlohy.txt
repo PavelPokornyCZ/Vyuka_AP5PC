@@ -1,0 +1,5 @@
+Úloha è.1:
+Vytvoøte program pro výpoèet souètu objemù a povrchù kvádrù a válcù. 
+Bude vytvoøena abstraktní tøída grafický objekt, ze které dìdí tøídy kvádr a válec. Tyto tøídy mají virtuální metody, které poèítají jejich objemy a povrchy.
+Dále je pøidána další tøída pro správu instancí tøíd kvádr a válec (atribut pole ukazatelù na instance tøídy grafický objekt a metody, které vytváøí instance kvádru èi válce, ruší je, zobrazuje všechny vytvoøené instance, poèítá souèty objemù a povrchù všech vložených tìles).
+V hlavní smyèce programu se nachází menu pro celý program.
