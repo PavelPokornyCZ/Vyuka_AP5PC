@@ -1,0 +1,7 @@
+Úloha è.1
+1. Upravte program z polymorfismu (8. výukový týden - objemy a povrchy grafických objektù) tak, že veškeré operace se nebudou vypisovat pouze na obrazovku, ale také do textového souboru.
+
+
+Úloha è.2
+Napište program pro výpis a vyhledávání autobusových spojù. Vytvoøí se tøída autobus, která bude mít atributy èíslo spoje a pak pole øetìzcù, ve kterých budou uloženy zastávky, kudy projíždí. Vytvoøte nìkolik instancí této tøídy a naplòte je údaji. V jednoduchém menu pùjde vypisovat všechny spoje a vyhledat autobus podle zadaného mìsta. Využijte pøitom tøídu string.
+Ukázka aplikace se nachází v souboru Cpp10-2.exe
